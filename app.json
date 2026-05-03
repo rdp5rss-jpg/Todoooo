@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "TodoApp",
-    "slug": "todoapp",
+    "name": "MyExpoApp",
+    "slug": "myexpoapp",
     "version": "1.0.0",
     "sdkVersion": "50.0.0",
     "android": {
-      "package": "com.mahi.todoapp"
+      "package": "com.mahi.myexpoapp"
     }
   }
 }
