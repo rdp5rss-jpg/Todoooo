@@ -3,8 +3,9 @@
     "name": "TodoApp",
     "slug": "todoapp",
     "version": "1.0.0",
+    "sdkVersion": "50.0.0",
     "android": {
-      "package": "com.mahi.todondbdbeapp"
+      "package": "com.mahi.todoapp"
     }
   }
 }
