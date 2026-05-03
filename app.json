@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TodoApp",
+    "slug": "todoapp",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.mahi.todondbdbeapp"
+    }
+  }
+}
